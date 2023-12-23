@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Swapnil67
+- 👋 Hi, I’m a Rookie Engineer
 - 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning how to build data intensive application from backend sticking to the fundamentals.
-- 💞️ I’m looking to collaborate on Backend related projects where multiple technologies can be used together.
+- 🌱 I’m currently learning how to build data-intensive applications from the backend sticking to the fundamentals.
+- 💞️ I’m looking to collaborate on Backend-related projects where multiple technologies can be used together.
 - 📫 How to reach me ...
 
 <!---
